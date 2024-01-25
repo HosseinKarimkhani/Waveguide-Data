@@ -1,11 +1,11 @@
 # Introduction
 In this project, the optical field simulation tool spits out a field file in the format:
 
-/# some header stuff
-/#   y y y y y y
-/# x d d d d d d
-/# x d d d d d d
-/# x d d d d d d
+\# some header stuff
+\#   y y y y y y
+\# x d d d d d d
+\# x d d d d d d
+\# x d d d d d d
 
 where y is the y-positions of the grid, x the x-positions and d the E-field data value. Attached with this example are some field files. Assume that the x, y grid distance is not necessarily equidistant, i.e. the distance between adjacent grid lines may vary, denser here, sparser there. Assume in first instance that the field strength on the grid boundary (outer box) is zero.
 
