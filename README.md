@@ -1,5 +1,5 @@
 # Introduction
-In this project, the optical field simulation tool spits out a field file in the format:
+In this project, the optical field simulation tool extracts a field file in the format:
 
 \# some header stuff
 
