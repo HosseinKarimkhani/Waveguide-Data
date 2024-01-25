@@ -22,14 +22,23 @@ What is needed is to regrid/interpolate/extend the field:
 Please see the attached files.
 # Usage
 1: Copy the provided code to the Colab.
+
 2: Upload all of the attached files on Colab Files Section.
+
 3: Copy the path's of "hhiE1700.radiusscan.mode.FDteEx_00.txt" from files, and paste it in Line 7, in the provided code.
+
 4: Run the code.
-5: Please enter the grid size:
-this number can be between 1 and 128 (We have 128 data).
+
+5: Please enter the grid size: This number can be between 1 and 128 (We have 128 data).
+
 6: Please Input your amount of extension in the X-direction here: 10.
+
 7: Please Input your amount of extension in the Y-direction here: 10.
+
 8: Please enter the starting coordinate for the X-axis: 10.
+
 9: Please enter the ending coordinate for the X-axis: 10.
+
 10: Please enter the ending coordinate for the Y-axis: 10.
+
 11: Please enter the ending coordinate for the Y-axis: 10.
